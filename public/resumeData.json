@@ -1,56 +1,36 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Lê Xuân Thành",
+    "occupation":"Mobile & Web Developer",
+    "description":"Born to be a negotiator, super friendly. Prefer peaceful places. Love guitar and singing",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I am really into people and nature. I love coding & singing. Always coding when I am sad. Haven't got any 'girlfriend' yet! Love photography, too! Have just bought a new camera (in September 2019) and will become a photographer soon. Welcome to my little diary!",
+    "contactmessage":"Contact me in case looking for help :D",
+    "email": "thanhlx1298@gmail.com",
+    "phone": "0352916600",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"38, ngõ 86 Tô Vĩnh Diện, Thanh Xuân, Hà Nội",
+      "city":"Hanoi",
+      "state":"",
+      "zip": "100000"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"/images/resume.jpg",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/LapleTee",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/thanhlx",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/thanhle98",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,44 +38,60 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of Science and Technology",
+        "degree":"Junior - Major in Information of Comunication and Technology",
+        "graduated":"September 2016 - Present",
+        "description":"We are studing with the best environment, apart from others major. Lovely lecturers."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Kim Lien Highschool",
+        "degree":"Major in Math & English",
+        "graduated":"September 2013 - June 2016",
+        "description":"In school's basketball team :D"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Opentechiz",
+        "title":"Senior Front-end, Project Manager",
+        "years":"November 2018 - Present",
+        "description":"I love the working culture here. Really friendly though. The best thing is chances to work with foreigner developers. I have learnt and grow up alot here!"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Super Cool Freelancer",
+        "title":"Junior Website Developer",
+        "years":"March 2016 - Nomvember 2018",
+        "description":"Luckily having some neighbours ordered me making websites for their businesses. Therefore, I earned alot of motivation and passion in coding when I was younger."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Flutter",
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"ReactNative",
+        "level":"90%"
       },
       {
         "name":"ReactJs",
+        "level":"100%"
+      },
+      {
+        "name":"AngularJs",
         "level":"50%"
+      },
+      {
+        "name":"Firebase",
+        "level":"90%"
+      },
+      {
+        "name":"GraphQL",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
       },
       {
         "name":"CSS",
@@ -106,46 +102,34 @@
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Git",
+        "level":"90%"
       },
+
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"PHP (Alittle Lavarel and CakePHP)",
+        "level":"40%"
+      },
+
+      {
+        "name":"Art: Illustrator & Photoshop",
+        "level":"45%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Biomedico Pharmacy Website",
+        "category":"A small website used for pharmacy start-up",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://biomedico.vn"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Kanban Working Management App",
+        "category":"(private) My first website build fully by me. Help my dad to manage his staff working process :D",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"#"
       }
     ]
   },
