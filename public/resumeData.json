@@ -120,15 +120,21 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Ehector",
+        "category":"A Food startup in French",
+        "image":"ehector.png",
+        "url":"http://ehector.com"
+      },
+      {
         "title":"Biomedico Pharmacy Website",
         "category":"A small website used for pharmacy start-up",
-        "image":"canadian-wanderlust.jpg",
+        "image":"biomedico.png",
         "url":"https://biomedico.vn"
       },
       {
         "title":"Kanban Working Management App",
         "category":"(private) My first website build fully by me. Help my dad to manage his staff working process :D",
-        "image":"fury-fighting-gear.jpg",
+        "image":"kanban.png",
         "url":"#"
       }
     ]
