@@ -14,12 +14,12 @@
       "state":"",
       "zip": "100000"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://thanhle-resume.firebaseapp.com",
     "resumedownload":"/images/resume.jpg",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/LapleTee",
+        "url":"https://facebook.com/LapleTee",
         "className":"fa fa-facebook"
       },
       {
