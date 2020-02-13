@@ -4,15 +4,15 @@
     "occupation":"Mobile & Web Developer",
     "description":"Born to be a negotiator, super friendly. Prefer peaceful places. Love guitar and singing",
     "image":"profilepic.jpg",
-    "bio":"I am really into people and nature. I love coding & singing. Always coding when I am sad. Haven't got any 'girlfriend' yet! Love photography, too! Have just bought a new camera (in September 2019) and will become a photographer soon. Welcome to my little diary!",
+    "bio":"I am really into people and nature. I love coding & singing. Always coding when I am sad. Love photography, too! Have just bought a new camera (in September 2019) and will become a photographer soon. Welcome to my little diary!",
     "contactmessage":"Contact me in case looking for help :D",
     "email": "thanhlx1298@gmail.com",
     "phone": "0352916600",
     "address":{
-      "street":"38, ngõ 86 Tô Vĩnh Diện, Thanh Xuân, Hà Nội",
+      "street":"To Vinh Dien, Thanh Xuan",
       "city":"Hanoi",
       "state":"",
-      "zip": "100000"
+      "zip": "10000"
     },
     "website": "https://thanhle-resume.firebaseapp.com",
     "resumedownload":"https://drive.google.com/file/d/0B_m7JZFpGTjkNWVkVk5kalphM0Z5cnhlc0E1N3JyMWJOYmZj/view",
@@ -55,7 +55,7 @@
         "company":"Opentechiz",
         "title":"Senior Front-end, Project Manager",
         "years":"November 2018 - Present",
-        "description":"I love the working culture here. Really friendly though. The best thing is chances to work with foreigner developers. I have learnt and grow up alot here!"
+        "description":"I love the working culture here. Really friendly though. The best thing is chances to work with foreigner developers. I have learnt and grown up alot here!"
       },
       {
         "company":"Super Cool Freelancer",
@@ -67,7 +67,7 @@
     "skills":[
       {
         "name":"Flutter",
-        "level":"95%"
+        "level":"90%"
       },
       {
         "name":"ReactNative",
@@ -75,7 +75,7 @@
       },
       {
         "name":"ReactJs",
-        "level":"100%"
+        "level":"98%"
       },
       {
         "name":"AngularJs",
